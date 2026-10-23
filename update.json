@@ -1,0 +1,8 @@
+{
+  "packageName": "com.omniview.reader",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "notes": "修复问题并提升文件预览体验",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.4.0/OmniView-v1.4.0.apk",
+  "sha256": "9f3c7c04c068505bb850dcbdb2eb75512cdde870c185f9e346651d4ea5dc5f8d"
+}

@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "notes": "修复问题并提升文件预览体验",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.4.0/OmniView-v1.4.0.apk",
-  "sha256": "9f3c7c04c068505bb850dcbdb2eb75512cdde870c185f9e346651d4ea5dc5f8d"
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "notes": "最近文件已移到首页首位；Markdown 支持渲染预览和源码切换，展示标题、列表、表格、代码块与引用。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.5.0/OmniView-v1.5.0.apk",
+  "sha256": "a74acac399962a8823e41f5afb44d1f6ecaa5721295212143f097d4f58ce7854"
 }

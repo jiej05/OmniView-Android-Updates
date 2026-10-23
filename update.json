@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "notes": "最近文件已移到首页首位；Markdown 支持渲染预览和源码切换，展示标题、列表、表格、代码块与引用。",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.5.0/OmniView-v1.5.0.apk",
-  "sha256": "a74acac399962a8823e41f5afb44d1f6ecaa5721295212143f097d4f58ce7854"
+  "versionCode": 8,
+  "versionName": "1.6.1",
+  "notes": "修复最近、收藏页点击文档/图片等类型后错误跳转到全部的问题；分类筛选保留当前底部导航页。优化首页布局和弹出菜单；Markdown 支持渲染预览与源码切换。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.6.1/OmniView-v1.6.1.apk",
+  "sha256": "432bbb82fc8820054614e1d629a5e19d4e867d6dc40ced666f82e30ad0b303f7"
 }

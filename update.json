@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 8,
-  "versionName": "1.6.1",
-  "notes": "修复最近、收藏页点击文档/图片等类型后错误跳转到全部的问题；分类筛选保留当前底部导航页。优化首页布局和弹出菜单；Markdown 支持渲染预览与源码切换。",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.6.1/OmniView-v1.6.1.apk",
-  "sha256": "432bbb82fc8820054614e1d629a5e19d4e867d6dc40ced666f82e30ad0b303f7"
+  "versionCode": 12,
+  "versionName": "1.9.0",
+  "notes": "最近文件置顶；文件列表长按进入多选，支持全选和批量收藏；保留 v1.8 文件排序和 v1.7 阅读功能。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.9.0/OmniView-v1.9.0.apk",
+  "sha256": "b7fd7b19a84a3f6a82d21020071fef5aa740ffdbc095f075cbe5db68913994bd"
 }

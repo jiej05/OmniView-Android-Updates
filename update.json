@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 12,
-  "versionName": "1.9.0",
-  "notes": "最近文件置顶；文件列表长按进入多选，支持全选和批量收藏；保留 v1.8 文件排序和 v1.7 阅读功能。",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.9.0/OmniView-v1.9.0.apk",
-  "sha256": "b7fd7b19a84a3f6a82d21020071fef5aa740ffdbc095f075cbe5db68913994bd"
+  "versionCode": 13,
+  "versionName": "1.9.1",
+  "notes": "Markdown 每个文件记住预览或源码选择，重新打开保留上次模式；新文件默认预览。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.9.1/OmniView-v1.9.1.apk",
+  "sha256": "bfaa755ca33274930df833987197fe407c84349a4a134ff63c6e6542255ffdcf"
 }

@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 13,
-  "versionName": "1.9.1",
-  "notes": "Markdown 每个文件记住预览或源码选择，重新打开保留上次模式；新文件默认预览。",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v1.9.1/OmniView-v1.9.1.apk",
-  "sha256": "bfaa755ca33274930df833987197fe407c84349a4a134ff63c6e6542255ffdcf"
+  "versionCode": 14,
+  "versionName": "2.0.0",
+  "notes": "同时连接多个文件夹；全部页面树状展开子目录；独立刷新与移除连接；记住目录展开状态，并保留此前阅读与收藏功能。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v2.0.0/OmniView-v2.0.0.apk",
+  "sha256": "c2ce5fc1c4eca3a2ce82b52556900522901ef559872613c238c6aa1b3f959bb7"
 }

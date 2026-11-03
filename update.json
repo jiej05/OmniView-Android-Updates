@@ -1,8 +1,8 @@
 {
   "packageName": "com.omniview.reader",
-  "versionCode": 15,
-  "versionName": "2.1.0",
-  "notes": "HTML 网页预览与只读源码切换；每个 HTML 文件自动记住预览/源码模式和阅读位置；加载 SAF 文件夹中的相对图片、CSS、JS；最近记录自动保留。",
-  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v2.1.0/OmniView-v2.1.0.apk",
-  "sha256": "f170ca27fa8022727313761857bc1d8882e7b623c5fe648396c2a87ae356cd0b"
+  "versionCode": 16,
+  "versionName": "2.1.1",
+  "notes": "修复 HTML 打开闪退；WebView 渲染进程异常时自动降级到源码查看；保留 HTML 预览、只读源码、按文件记忆阅读位置及本地相对资源加载。",
+  "apkUrl": "https://github.com/jiej05/OmniView-Android-Updates/releases/download/v2.1.1/OmniView-v2.1.1.apk",
+  "sha256": "f6b32677a8e0254c137ec426158a5494fd3737c8af4d2345c1ef9ddb9c9ae725"
 }
